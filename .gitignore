@@ -2,3 +2,4 @@
 *.swp
 scent-env
 __pycache__
+build
